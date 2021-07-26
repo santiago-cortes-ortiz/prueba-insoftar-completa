@@ -5,13 +5,13 @@ este es el proyecto del la prueba insoftar.
 tener instalador MySql, NodeJs, Angular( de ser posible ) y java.
 
 ## Repositorio para descargar 🛠️
-por favor descargue o mire los siguientes repositorios
+por favor descargar o mirar los siguientes repositorios correspondientes al proyecto
 * [Backend](https://github.com/santiago-cortes-ortiz/prueba-insoftar-backend) - El backend del proyecto
 * [Frontend](https://github.com/santiago-cortes-ortiz/prueba-insoftar-frontend) - El frontend del proyecto
 
 ## Ejecutando scripts ⚙️
-Muy importante ejecutar el scripts para la creacion de las tablas,
-a continuacion el script correspondiente
+Muy importante ejecutar el script de la base de datos MySql,
+a continuacion el script correspondiente.
 ```
 create database Prueba;
 
