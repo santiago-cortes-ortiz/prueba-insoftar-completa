@@ -2,12 +2,21 @@
 este es el proyecto del la prueba insoftar.
 
 ### Pre-requisitos 📋
-tener instalador MySql, NodeJs, Angular( de ser posible ) y java.
+instalar las tecnologias correspondientes: MySql, NodeJs, Angular( de ser posible ) y java.
 
 ## Repositorio para descargar 🛠️
 por favor descargar o mirar los siguientes repositorios correspondientes al proyecto
 * [Backend](https://github.com/santiago-cortes-ortiz/prueba-insoftar-backend) - El backend del proyecto
 * [Frontend](https://github.com/santiago-cortes-ortiz/prueba-insoftar-frontend) - El frontend del proyecto
+
+### Instalar dependencias para angular
+
+_Una vez descargado el repositorio de la parte del frontend, en la carpeta del proyecto
+ejecutar en la terminal el comando: _
+
+```
+npm install
+```
 
 ## Ejecutando scripts ⚙️
 Muy importante ejecutar el script de la base de datos MySql,
